@@ -1,0 +1,9 @@
+# default values for blocks
+default height:25 width:25 hit_points:1
+
+# block definitions
+bdef symbol:b fill:color(blue)
+bdef symbol:y fill:color(yellow)
+
+# spacers definitions
+sdef symbol:- width:25
